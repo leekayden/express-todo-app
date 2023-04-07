@@ -1,4 +1,4 @@
-# Eden CoSpaces Server (GoLang)
+# TODO App Server (GoLang)
 
 ## Usage:
 ### run `npm install --force` to install deps
